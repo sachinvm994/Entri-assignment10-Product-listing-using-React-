@@ -1,3 +1,10 @@
+<!-- Github Link -->
+https://github.com/sachinvm994/Entri-assignment10-Product-listing-using-React-
+
+<!-- Deployed Link -->
+https://product-listing-using-react-rosy.vercel.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
